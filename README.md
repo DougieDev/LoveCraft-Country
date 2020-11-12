@@ -55,7 +55,7 @@
 </ul>
 
 # Preview
-![lovecraft-gif](https://media.giphy.com/media/iGwCOlrd6UFlF7xp8u/source.gif)
+![lovecraft-gif](https://media.giphy.com/media/iGwCOlrd6UFlF7xp8u/giphy.gif)
 
 # Future Iterations
 

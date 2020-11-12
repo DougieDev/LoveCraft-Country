@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+<a name="mainContents"></a>
+# Lovecraft Country
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Contents 
 
-## Available Scripts
+* [About](#about)
+* [Technologies](#techused)
+* [Installation](#i)
+* [Future Iterations](#fut-iter)
+* [Challenges](#chal)
+* [Github Profile](#git-prof)
 
-In the project directory, you can run:
+# About 
 
-### `npm start`
+<a name="about"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Back to Main](#mainContents)
+<ul>
+    <li>Lovecraft Country is a solo project using a custom API to build a React application that can both display the current list of episodes, give episode titles and numbers, and gives the user the opportunity to create their own episode. </li>
+    <li>We were given the task of building the App in 4 days.</li>
+</ul>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Technologies
 
-### `npm test`
+<a name="techused"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Back to Main](#mainContents)
+<ul>
+    <li>React.js</li>
+    <li>ES6 Javascript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>React Router</li>
+    <li>Git/Github</li>
+    <li>Fetch API</li>
+    <li>React Testing Library</li>
+    <li>Jest</li>
+</ul>
 
-### `npm run build`
+# Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a name="i"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Back to Main](#mainContents)
+<ul>
+    <li>Open your terminal</li>
+    <li>Run ```git clone git@github.com:letakeane/dougieAPI.git lovecraft-country-api```</li>
+    <li>Run ```cd lovecraft-country-api```</li>
+    <li>Run ```node server.js```
+    <li>Run ```cd ..```
+    <li>Run ```git clone git@github.com:DougieDev/LoveCraft-Country.git lovecraft-country-ui```</li>
+    <li>Run `cd lovecraft-country-ui`</li>
+    <li>Run `npm i`</li>
+    <li>Run `npm start`</li>
+</ul>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Preview
+![lovecraft-gif](https://media.giphy.com/media/iGwCOlrd6UFlF7xp8u/source.gif)
 
-### `npm run eject`
+# Future Iterations
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<a name="fut-iter"></a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Back to Main](#mainContents)</br></br>
+With more time, I'd like to implement the following features:
+<ul>
+    <li>Further CSS styling</li>
+    <li>User Login capabilities</li>
+    <li>Ability to rate episodes</li>
+    <li>Comment system</li>
+    <li>Ability to favorite specific episodes to a list populated on another page</li>
+    <li>Further Routing options</li>
+</ul>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Challenges
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<a name="chal"></a>
 
-## Learn More
+[Back to Main](#mainContents)
+<ul>
+    <li>As previously mentioned, time was the most difficult aspect of this project. Building a working React app with comprehensive testing and proper functionality meant there was plenty of options and features that needed to be left on the cutting room floor in order to meet the MVP (Minimum Viable Product) on time. With more time, I would enjoy implementing the features from the list above.</li>
+</ul>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Github Profile
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a name="git-prof"></a>
 
-### Code Splitting
+[Back to Main](#mainContents)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> Carlyle Douglas [here](https://github.com/DougieDev)
